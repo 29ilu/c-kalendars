@@ -1,0 +1,10 @@
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp programesanas todo kalendars.csprojAssemblyReference.cache
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp_programesanas_todo_kalendars.TaskBase.resources
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp_programesanas_todo_kalendars.Properties.Resources.resources
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp programesanas todo kalendars.csproj.GenerateResource.cache
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp programesanas todo kalendars.csproj.CoreCompileInputs.cache
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\bin\Debug\Csharp programesanas todo kalendars.exe.config
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\bin\Debug\Csharp programesanas todo kalendars.exe
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\bin\Debug\Csharp programesanas todo kalendars.pdb
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp programesanas todo kalendars.exe
+C:\Users\lj2566\source\repos\Csharp programesanas todo kalendars\Csharp programesanas todo kalendars\obj\Debug\Csharp programesanas todo kalendars.pdb
